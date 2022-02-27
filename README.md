@@ -1,10 +1,10 @@
 # Multi-Layer-Perceptron
 
-* data/mnist
+## data/mnist
   
   * mnist 파일 경로
 
-* MLP
+## MLP
 
   * data/mnist 경로에 저장된 mnist 파일 다운로드 및 압축 해제
 
@@ -14,5 +14,6 @@
 
   * Epoch = 20, Epoch마다 train, test 데이터 정확도 출력
  
-* 실행결과
+## 실행결과
 <img width="399" alt="image" src="https://user-images.githubusercontent.com/70627982/155875634-da3712d6-b902-4e98-8e8e-83ca44b1753d.png">
+<img width="378" alt="image" src="https://user-images.githubusercontent.com/70627982/155875658-e4165af2-19b2-412a-abc8-5b99dada9dcb.png">
